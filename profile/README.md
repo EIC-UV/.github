@@ -1,5 +1,10 @@
-## Hola 👋
+## Bienvenidos 👋
 
+Comunidad de estudiantes, alumni y profesores 🏗️
+
+Escuela de Ingeniería Civil
+Facultad de Ingeniería,
+Universidad de Valparaíso
 <!--
 
 **Here are some ideas to get you started:**
