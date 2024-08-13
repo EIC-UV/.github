@@ -2,9 +2,9 @@
 
 Comunidad de estudiantes, alumni y profesores 🏗️
 
-Escuela de Ingeniería Civil \
-Facultad de Ingeniería \ 
-Universidad de Valparaíso \
+Escuela de Ingeniería Civil\
+Facultad de Ingeniería\ 
+Universidad de Valparaíso\
 Chile
 <!--
 
