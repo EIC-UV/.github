@@ -7,9 +7,9 @@ Facultad de Ingeniería\
 Universidad de Valparaíso\
 Chile
 
-📬 Contacto
-🌐 Sitio web civil.uv.cl
-🐙 GitHubgithub.com/EIC-UV
+📬 Contacto \
+🌐 [Sitio web civil.uv.cl](https://civil.uv.cl) \
+🐙 [GitHubgithub.com/EIC-UV](https://github.com/EIC-UV/.github/blob/main/profile/README.md) \
 
 <p align="center">
   Hecho con 💙 por la comunidad EIC-UV · Universidad de Valparaíso
