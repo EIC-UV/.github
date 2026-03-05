@@ -1,6 +1,6 @@
 ## Bienvenidos 👋
 
-Comunidad de estudiantes, alumni y profesores 🏗️
+Comunidad de profesores, estudiantes y alumni 🏗️
 
 Escuela de Ingeniería Civil\
 Facultad de Ingeniería\
