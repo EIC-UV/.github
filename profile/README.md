@@ -7,6 +7,9 @@ Facultad de Ingeniería\
 Universidad de Valparaíso\
 Chile
 
+📬 Contacto
+CanalEnlace🌐 Sitio webingenieria.uv.cl📧 Correo institucionalingenieria.civil@uv.cl🐙 GitHubgithub.com/EIC-UV
+
 <p align="center">
   Hecho con 💙 por la comunidad EIC-UV · Universidad de Valparaíso
 </p>
